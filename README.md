@@ -7,7 +7,7 @@ I have led and architected IT ecosystems for organizations operating in active c
 - 🔭 Currently building resilient digital systems for humanitarian and nonprofit organizations  
 - 🧠 Interested in systems architecture, automation, data analytics, and secure infrastructure  
 - 🌍 Working across Europe, the U.S., and Ukraine  
-- 📫 How to reach me: your-email@example.com  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thomas-humphrey-th/)
 - 📝 Resume available upon request  
 
 ---
@@ -20,7 +20,6 @@ I have led and architected IT ecosystems for organizations operating in active c
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
-![Microsoft Azure](https://img.shields.io/badge/-Azure-black?logo=microsoft-azure&style=social)&nbsp;&nbsp;
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?logo=powerbi&style=social)&nbsp;&nbsp;
 ![SharePoint](https://img.shields.io/badge/-SharePoint-black?logo=microsoft-sharepoint&style=social)&nbsp;&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-black?logo=wordpress&style=social)&nbsp;&nbsp;
@@ -28,7 +27,3 @@ I have led and architected IT ecosystems for organizations operating in active c
 ![Figma](https://img.shields.io/badge/-Figma-black?logo=figma&style=social)&nbsp;&nbsp;
 
 ---
-
-![Thomas's Github Stats](https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
