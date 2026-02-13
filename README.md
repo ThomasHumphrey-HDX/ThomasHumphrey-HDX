@@ -1,34 +1,34 @@
-<h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">A passionate developer from Germany</h3>
+### Hi there 👋, I am Thomas Humphrey
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thomashumphrey-hdx&label=Profile%20views&color=0e75b6&style=flat" alt="thomashumphrey-hdx" /> </p>
+Hello, my name is Thomas and I work at the intersection of humanitarian operations, digital infrastructure, and data-driven systems. I build secure, scalable technology environments that power international aid operations, cross-border coordination, and high-impact nonprofit initiatives.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomashumphrey-hdx" alt="thomashumphrey-hdx" /></a> </p>
+I have led and architected IT ecosystems for organizations operating in active conflict zones, managed multimillion-dollar operational budgets, and developed automation, analytics, and communication systems that support real-time decision-making.
 
-- 🔭 I’m currently working on [[input]]([input])
+- 🔭 Currently building resilient digital systems for humanitarian and nonprofit organizations  
+- 🧠 Interested in systems architecture, automation, data analytics, and secure infrastructure  
+- 🌍 Working across Europe, the U.S., and Ukraine  
+- 📫 How to reach me: your-email@example.com  
+- 📝 Resume available upon request  
 
-- 🌱 I’m currently learning **[input]**
+---
 
-- 👯 I’m looking to collaborate on [[input]]([input])
+**Languages and Tools:**
 
-- 🤝 I’m looking for help with [[input]]([input])
+![Python](https://img.shields.io/badge/-Python-black?logo=python&style=social)&nbsp;&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-black?logo=php&style=social)&nbsp;&nbsp;
+![React](https://img.shields.io/badge/-React-black?logo=react&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
+![Microsoft Azure](https://img.shields.io/badge/-Azure-black?logo=microsoft-azure&style=social)&nbsp;&nbsp;
+![Power BI](https://img.shields.io/badge/-Power%20BI-black?logo=powerbi&style=social)&nbsp;&nbsp;
+![SharePoint](https://img.shields.io/badge/-SharePoint-black?logo=microsoft-sharepoint&style=social)&nbsp;&nbsp;
+![WordPress](https://img.shields.io/badge/-WordPress-black?logo=wordpress&style=social)&nbsp;&nbsp;
+![Adobe](https://img.shields.io/badge/-Adobe%20Creative%20Suite-black?logo=adobe&style=social)&nbsp;&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-black?logo=figma&style=social)&nbsp;&nbsp;
 
-- 👨‍💻 All of my projects are available at [[input]]([input])
+---
 
-- 📝 I regularly write articles on [[input]]([input])
+![Thomas's Github Stats](https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true&include_all_commits=true)
 
-- 💬 Ask me about **[input]**
-
-- 📫 How to reach me **[input]**
-
-- 📄 Know about my experiences [[input]]([input])
-
-- ⚡ Fun fact **[input]**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
